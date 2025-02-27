@@ -18,26 +18,8 @@ export const metadata: Metadata = {
   openGraph: {
     title: "WeHR - HR Dashboard",
     description: "Streamline your HR processes with WeHR's powerful dashboard.",
-    url: "https://wehr.com",
-    siteName: "WeHR",
-    images: [
-      {
-        url: "https://wehr.com/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "WeHR HR Dashboard Preview",
-      },
-    ],
     type: "website",
     locale: "en_US",
-  },
-  twitter: {
-    card: "summary_large_image",
-    site: "@wehr",
-    creator: "@wehr",
-    title: "WeHR - HR Dashboard",
-    description: "Manage employees and recruitment efficiently with WeHR.",
-    images: ["https://wehr.com/twitter-card.jpg"],
   },
 };
 
